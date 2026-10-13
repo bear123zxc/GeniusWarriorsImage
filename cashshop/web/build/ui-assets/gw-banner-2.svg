@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="88" viewBox="0 0 660 88">
+  <defs><linearGradient id="b" x2="1"><stop stop-color="#02101f"/><stop offset=".55" stop-color="#0a2f55"/><stop offset="1" stop-color="#02101f"/></linearGradient><linearGradient id="l" x2="1"><stop stop-color="#00c8ff"/><stop offset="1" stop-color="#168dff"/></linearGradient></defs>
+  <path fill="url(#b)" stroke="url(#l)" d="M14 .5H646L659.5 14v60L646 87.5H14L.5 74V14z"/>
+  <circle cx="522" cy="44" r="30" fill="none" stroke="#00c8ff" opacity=".3"/><circle cx="522" cy="44" r="20" fill="none" stroke="#0a84ff" opacity=".5"/>
+  <text x="32" y="34" fill="#7dd3fc" font-family="Segoe UI,Arial" font-size="10" letter-spacing="3">GW PVP // SECURE DROP</text>
+  <text x="32" y="61" fill="#fff" font-family="Segoe UI,Arial" font-size="23" font-weight="800">RƯƠNG VẬT PHẨM HIẾM</text>
+  <text x="627" y="50" text-anchor="end" fill="#93c5fd" font-family="Segoe UI,Arial" font-size="10" letter-spacing="2">OPEN NOW</text>
+</svg>

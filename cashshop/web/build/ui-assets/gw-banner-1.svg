@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="88" viewBox="0 0 660 88">
+  <defs><linearGradient id="b" x2="1"><stop stop-color="#02101f"/><stop offset=".54" stop-color="#0a3a6b"/><stop offset="1" stop-color="#02101f"/></linearGradient><linearGradient id="l" x2="1"><stop stop-color="#00c8ff"/><stop offset="1" stop-color="#168dff"/></linearGradient></defs>
+  <path fill="url(#b)" stroke="url(#l)" d="M14 .5H646L659.5 14v60L646 87.5H14L.5 74V14z"/>
+  <path opacity=".18" stroke="#0a84ff" d="M22 15h280M358 73h280M410 12l-35 64M470 12l-35 64M530 12l-35 64"/>
+  <text x="32" y="34" fill="#7dd3fc" font-family="Segoe UI,Arial" font-size="10" letter-spacing="3">GW PVP // CYBER CASHSHOP</text>
+  <text x="32" y="61" fill="#fff" font-family="Segoe UI,Arial" font-size="23" font-weight="800">ƯU ĐÃI CHIẾN BINH</text>
+  <text x="627" y="52" text-anchor="end" fill="#7dd3fc" font-family="Segoe UI,Arial" font-size="11" letter-spacing="2">NO MERCY</text>
+</svg>
